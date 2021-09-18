@@ -8,7 +8,7 @@
 
   <ur>
   
-  ## Link to the application
+  ## Link to Deployed Application
   
   https://notes0001.herokuapp.com/
 
@@ -46,10 +46,10 @@
   <ur>
 
   ## 📈Test📈
-  Please run the node server.js in your terminal
+  Please run the node server.js in your terminal or access the deployed app at the link above.
   <ur>
 
-  ![demo](https://github.com/DavidPedraza95/Central_Data_Processor/blob/main/assets/Untitled_%20Aug%2012,%202021%208_32%20PM.gif?raw=true)
+  ![demo](https://github.com/DavidPedraza95/Note_Taker/blob/main/Note%20Taker%20gif.gif?raw=true)
     
     
     
